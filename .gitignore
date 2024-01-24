@@ -1,0 +1,6 @@
+.env
+.cache
+coding/
+db/
+web/
+config/
